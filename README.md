@@ -23,5 +23,5 @@
 
 ## Autor do Projeto
 
-### DIEGO NERI 
+### Diego Neri
 Linkedin: https://www.linkedin.com/in/diego-neri500/
