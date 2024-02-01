@@ -23,5 +23,5 @@
 
 ## Autor do Projeto
 
-### Lucas Gabriel
+### DIEGO NERI 
 Linkedin: https://www.linkedin.com/in/diego-neri500/
