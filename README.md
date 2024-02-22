@@ -21,7 +21,7 @@
 - Mayara Cardoso - Desenvolvedora Front-end no Itaú
 
 
-## Autor do Projeto
+
 
 ### Diego Neri
 Linkedin: https://www.linkedin.com/in/diego-neri500/
